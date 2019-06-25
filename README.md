@@ -2,7 +2,9 @@
 * Para Leitura
   * Inserir aqui
 
-
+* Padrões de Desenvolvimento
+    * https://nordicapis.com/building-a-backend-for-frontend-shim-for-your-microservices/
+    * https://docs.microsoft.com/pt-br/azure/architecture/patterns/strangler
 * Boas Praticas Log
     * http://development.wombatsecurity.com/development/2018/12/20/json-logging-for-spring-boot/
 * Versionamento API
@@ -23,3 +25,5 @@
     ```java
     @Retryable(maxAttempts = 5, backoff = @Backoff(delay = 3000, maxDelay = 7000)
     ```
+* Cursos
+    * https://school.linuxtips.io/courses/

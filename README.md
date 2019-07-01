@@ -28,3 +28,36 @@
 * Cursos
     * https://school.linuxtips.io/courses/
     * https://crontab.guru/
+
+https://portal.sulamericaseguros.com.br/home.htm
+
+#### Dermatologista ####
+
+10/07/2019 - 9:20
+http://www.cesarcuono.com.br/
+
+#### Endocrinologista ####
+
+https://foursquare.com/v/cl%C3%ADnica-dra-marcia-fabiana-seki/4e395e946284250071bc8fbc
+
+02/07/2019 - 08:00 -  Consulta
+
+R JOAQUIM FLORIANO 466, CJ 1303, ITAIM BIBI, SAO PAULO - SP
+CEP 04534-002
+Fone: (11) 3167-1165
+
+
+#### OTORRINOLARINGOLOGIA ####
+
+03/07/2019 - 08:00 -  Consulta
+https://www.ipo.med.br/
+
+R DOUTOR JOAO CLIMACO PEREIRA 46, , ITAIM BIBI, SAO PAULO - SP
+CEP 04532-070
+
+#### Nutricionista ####
+
+https://dietnet.com.br/contato/
+
+
+

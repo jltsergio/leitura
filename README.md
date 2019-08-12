@@ -2,6 +2,10 @@
 * Para Leitura
   * Inserir aqui
 
+https://www.baeldung.com/spring-data-redis-tutorial
+https://docs.spring.io/spring-data/data-redis/docs/current/reference/html/#why-spring-redis
+
+
 * Padrões de Desenvolvimento
     * https://nordicapis.com/building-a-backend-for-frontend-shim-for-your-microservices/
     * https://docs.microsoft.com/pt-br/azure/architecture/patterns/strangler

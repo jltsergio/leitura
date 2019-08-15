@@ -2,8 +2,15 @@
 * Para Leitura
   * Inserir aqui
 
-https://www.baeldung.com/spring-data-redis-tutorial
-https://docs.spring.io/spring-data/data-redis/docs/current/reference/html/#why-spring-redis
+- https://dzone.com/articles/using-redis-spring
+- https://www.mkyong.com/java/java-convert-object-to-map-example/
+- https://examples.javacodegeeks.com/enterprise-java/spring/spring-data-redis-example/
+- https://docs.spring.io/spring-data/redis/docs/current/api/org/springframework/data/redis/hash/ObjectHashMapper.html
+
+
+
+- https://www.baeldung.com/spring-data-redis-tutorial
+- https://docs.spring.io/spring-data/data-redis/docs/current/reference/html/#why-spring-redis
 
 
 * Padrões de Desenvolvimento

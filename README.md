@@ -7,8 +7,8 @@
 - https://examples.javacodegeeks.com/enterprise-java/spring/spring-data-redis-example/
 - https://docs.spring.io/spring-data/redis/docs/current/api/org/springframework/data/redis/hash/ObjectHashMapper.html
 
-
-
+- https://www.baeldung.com/spring-aop-annotation
+- https://stackoverflow.com/questions/50607456/custom-annotation-on-controller-methods-to-intercept-request-and-validate
 - https://www.baeldung.com/spring-data-redis-tutorial
 - https://docs.spring.io/spring-data/data-redis/docs/current/reference/html/#why-spring-redis
 

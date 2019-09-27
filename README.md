@@ -73,4 +73,4 @@ https://dietnet.com.br/contato/
 
 https://www3.caixa.gov.br/fies/asp/boleto/boletoonline2.asp#
 
-
+https://stackoverflow.com/questions/5455014/ignoring-new-fields-on-json-objects-using-jackson

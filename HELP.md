@@ -12,3 +12,4 @@ https://landing.google.com/sre/sre-book/chapters/service-level-objectives/
  
  
 - https://www.infoq.com/br/news/2018/08/google-explains-sre/
+- https://www.tecmundo.com.br/tutorial/834-aprenda-a-usar-as-normas-da-abnt-citacao-2-de-4-.htm

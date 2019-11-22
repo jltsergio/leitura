@@ -11,3 +11,4 @@ https://landing.google.com/sre/sre-book/chapters/service-level-objectives/
  
  
  
+- https://www.infoq.com/br/news/2018/08/google-explains-sre/
